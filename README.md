@@ -1,8 +1,8 @@
-# Queen's Gambit Solver
+# Eight Queen's Chess Puzzle Solver
 
-This program attempts to solve the Queen's Gambit each time it is run.
+This program attempts to solve the Eight Queens chess puzzle each time it is run.
 
-The Queen's Gambit is a chess-based puzzle where eight queens must be placed on a chess board in a configuration where none of the queens threatens any of the others.
+The Eight Queens is a chess-based puzzle where eight queens must be placed on a chess board in a configuration where none of the queens threatens any of the others.
 
 Additionally, this program will solve this puzzle for any square board size. The default is the standard chess board size of 8x8.
 
